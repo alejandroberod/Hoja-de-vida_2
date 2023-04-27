@@ -1,0 +1,170 @@
+body {
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: #0D1216;
+}
+
+h2 {
+    margin-left: 25px;
+    font-size: 17.329px;
+    text-align: left;
+    font-family: 'Lato', serif;
+    border-bottom: white solid 2px;
+    width: 200px;
+}
+
+p { 
+    font-family: 'Lora', serif;
+}
+
+.etiq p {
+    font-size: 16px;
+    text-align:left;
+    margin: 25px;
+}
+
+.informacion p{
+    font-size: 16px;
+    text-align:left;
+    margin: 15px;
+}
+.etiqueta-lateral li {
+    font-size: 16px;
+    text-align:left;
+    margin: 5px;
+    list-style: none;
+}
+
+.contact {
+    margin-top: 30px;
+    font-family: 'Lora', serif;
+}
+
+.contact ul {
+    padding-left: 20px;
+}
+
+.contenedor-padre {
+    width: 40%;
+    margin: 0 auto;
+    position: relative;
+    background-color: #0A1B36;
+    margin-top: 50px;
+}
+
+.etiqueta-fondo {
+    background-color: rgba(195, 57, 176, 0.75);
+    box-shadow: 0 0 30px 1px #C339B0;
+    border-top: #C339B0 solid 5px;
+    border-bottom: #C339B0 solid 5px;
+    position: absolute;
+    top: 80px;
+    width: 100%;
+    height: 180px;
+    color: white;
+}
+
+.etiqueta-fondo h1,p {
+    margin-left: 400px;
+}
+
+.etiqueta-fondo h1 {
+    margin-top: 50px;
+    font-family: 'Lato', serif;
+    letter-spacing: 10px;
+}
+
+.etiqueta-fondo p {
+    font-family: 'Lora', serif;
+}
+
+.etiqueta-lateral {
+    background-color: rgba(92, 225, 230,0.7);
+    box-shadow: 0 0 30px 1px #5CE1E6;
+    border-left: #5CE1E6 solid 5px;
+    border-right: #5CE1E6 solid 5px;
+    width: 300px;
+    height: 90vh;
+    text-align: center;
+    color: #FFFFFF;
+    position: relative;
+    left: 50px;
+}
+
+.informacion {
+    position: absolute;
+    left: 300px;
+    color: white;
+    width: 400px;
+    top: 320px;
+    line-height: 1;
+}
+
+img {
+    margin-top: 65px;
+    margin-bottom: 10px;
+    background-color: gray;
+    border: 4px solid white;
+    border-radius: 50%;
+    width: 200px;
+}
+
+.p2 {
+    font-weight: 1000;
+}
+
+.informacion li {
+    font-family: 'Lato', serif;
+}
+
+.informacion span {
+    margin-right: 15px;
+}
+
+.informacion p {
+    margin-left: 45px;
+}
+
+i {
+    margin-right: 15px;
+    font-size: 20px;
+}
+
+h3 {
+    margin: 0px;
+}
+
+.skill {
+    margin-left: 25px;
+}
+
+.skill h2 {
+    margin: 25px 0 25px 0;
+}
+
+.bar {
+    background: #0A1B36;
+    display: block;
+    height: 10px;
+    border-radius: 10px;
+    overflow: hidden;
+    width: 80%;
+}
+
+.bar span {
+    height: 20px;
+    float: left;
+    background: linear-gradient(135deg, rgba(195, 57, 176, 1)0%, rgba(252,103,103,1)100%);
+}
+
+.html {
+    width: 70%;
+}
+
+.css {
+    width: 40%;
+}
+
+.js {
+    width: 55%;
+}
